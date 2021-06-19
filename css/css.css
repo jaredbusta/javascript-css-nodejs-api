@@ -27,4 +27,11 @@ button{
     border-radius: 30px;
 }
 
+section p{
+    text-align: center;
+    padding-top: 30px;
+    font-family: monospace;
+    font-size: large;
+}
+
 

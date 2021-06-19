@@ -1,4 +1,4 @@
-#Practica de javasctip
+#Practica de javascript
 
 Este es un mini curso de javascript, que forma parte de la comunidad de Platzi.
 
