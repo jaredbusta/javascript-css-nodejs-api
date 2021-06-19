@@ -1,23 +1,18 @@
-#Practica de javascript
+**Practica de javascript**
 
 Este es un mini curso de javascript, que forma parte de la comunidad de Platzi.
 
-El material y autor del curso es Freddy Vega
+El material es tomado de Freddy Vega
 
-incluí otros concetos adicionales al material original
+incluí otros conceptos adicionales al material original
 
-este material contiene los siguiente...
-* consulta de api externo para obtener el origen de un nombre
-* manejo de respuesta de la consulta
-* consulta de api que retorna el país segun el coutry_id 
+*El material contiene lo siguiente...*
 
-* uso de funciones async 
-* uso de la funcion awai
-
-* uso de exceptions
-
-* uso de evento (listeners)
-
-* configuracion de servidor node.js ( basico )
-
-* css basico para mostrar la informacion resultante de los servicios
+* Consulta de api externo para obtener el origen de un nombre
+* Manejo de respuesta de la consulta
+* Consulta de api que retorna el país según el coutry_id 
+* Uso de funciones async 
+* Uso de la función await
+* Manejo de exceptions
+* Css básico para mostrar la información resultante de los servicios
+* Configuración de servidor node.js ( básico )
